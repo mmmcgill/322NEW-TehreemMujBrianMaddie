@@ -145,6 +145,26 @@ PrefabInstance:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3225122989003507440, guid: 44789bd327f7584409abcfe374ba3a80,
+        type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3284449540302740426, guid: 44789bd327f7584409abcfe374ba3a80,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344351908607133786, guid: 44789bd327f7584409abcfe374ba3a80,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3503263120413484625, guid: 44789bd327f7584409abcfe374ba3a80,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4881895575160355218, guid: 44789bd327f7584409abcfe374ba3a80,
         type: 3}
       propertyPath: m_LocalPosition.x
