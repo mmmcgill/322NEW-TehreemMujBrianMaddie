@@ -384,7 +384,12 @@ ModelImporter:
   - first:
       137: 13700004
     second: CatGirl2:eye_R009
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: b560f9c85391e1d4cb1cea8ddc38a75b, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
