@@ -140,11 +140,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3344351908607133786, guid: 44789bd327f7584409abcfe374ba3a80,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 4881895575160355218, guid: 44789bd327f7584409abcfe374ba3a80,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -214,11 +209,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Ground Plane Stage
-      objectReference: {fileID: 0}
-    - target: {fileID: 9053425586383758832, guid: 44789bd327f7584409abcfe374ba3a80,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 44789bd327f7584409abcfe374ba3a80, type: 3}
@@ -302,11 +292,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Directional Light
-      objectReference: {fileID: 0}
-    - target: {fileID: 6416543353792044376, guid: 48fae3b1c1f3fe64abb152c7f3a0664f,
-        type: 3}
-      propertyPath: m_Shadows.m_Resolution
-      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 6416543353792044377, guid: 48fae3b1c1f3fe64abb152c7f3a0664f,
         type: 3}
