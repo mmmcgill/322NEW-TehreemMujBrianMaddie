@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 11.10.2018 14:45:26
+
+newmtl T7_MI_MOB_s4dog
+	Ns 0.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.000000 0.000000 0.000000
+	Kd 0.800000 0.800000 0.800000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka C:\Users\SKP\Desktop\PC\TEKKEN 7\PC Computer - TEKKEN 7 - Dog\TEKKEN7_mob_dog_DAE\dog_D.png
+	map_Kd C:\Users\SKP\Desktop\PC\TEKKEN 7\PC Computer - TEKKEN 7 - Dog\TEKKEN7_mob_dog_DAE\dog_D.png

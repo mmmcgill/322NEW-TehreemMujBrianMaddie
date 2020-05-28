@@ -8,7 +8,12 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
-
+CS322/[Ll]ibrary/
+CS322/[Tt]emp/
+CS322/[Oo]bj/
+CS322/[Bb]uild/
+CS322/[Bb]uilds/
+CS322/[Ll]ogs/
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -70,3 +75,5 @@ crashlytics-build.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+CS322/Library/

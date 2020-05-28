@@ -1,0 +1,18 @@
+newmtl Model001_Material001
+map_Kd cat_01_Tongue.png
+
+newmtl Model001_Material002
+map_Kd cat_02__head.png
+
+newmtl Model001_Material003
+map_Kd cat_01_eye.png
+
+newmtl Model001_Material004
+map_Kd cat_02_body.png
+
+newmtl Model001_Material005
+map_Kd cat01_teeth.png
+
+newmtl Model001_Material006
+map_Kd cat_01_mouce_in.png
+
